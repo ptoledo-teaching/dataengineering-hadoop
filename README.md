@@ -145,7 +145,7 @@ This will leave Hadoop in:
 Clone the current repository on the Master machine via:
 
 ```bash
-git clone git@github.com:ptoledo-teaching/dataengineering-hadoop.git
+git clone https://github.com/ptoledo-teaching/dataengineering-hadoop.git
 ```
 
 ### Configure a Hadoop-Specific Environment on the Master
